@@ -1,7 +1,7 @@
 # C++ 기초 수업 (class_cpp)
 
 C언어를 배운 학생이 **C++ 와 객체 지향 프로그래밍**으로 넘어가는 16강 분량의 수업 자료입니다.
-`C++_` 폴더의 날짜별 프로젝트(ex220622 ~ ex220701, 8일치)를 주제별로 재구성했습니다.
+`C++_` 폴더의 날짜별 프로젝트(8일치)를 주제별로 재구성했습니다.
 
 ---
 
@@ -86,21 +86,6 @@ class_cpp/
 | `app/telphonebook` | `Person`/`Student`/`Professor`/`TelPhoneBook`/`Util` + `TelMain.cpp` | [class16](class/class16.md) — 상속·다형성·스마트 포인터·파일 IO |
 
 ---
-
-## 원본과의 관계
-
-| 원본 폴더 | 재구성된 강의 |
-|-----------|---------------|
-| `ex220622` | class1, class2, class3 |
-| `ex220623` | class4, class5 (+ `app/point`) |
-| `ex220624` | class6, class7, class8 (+ `app/string`) |
-| `ex220627` | class8, class9, class10 |
-| `ex220628` | class11, class12 |
-| `ex220629` | class12, class13, class14 |
-| `ex220630` | class15, class16 |
-| `ex220701` | class16 (+ `app/telphonebook`) |
-
-원본 소스는 `C++_` 폴더에 그대로 보존되어 있습니다.
 
 > 원본은 **CP949** 인코딩이었으나, 이 프로젝트의 소스는 모두 **UTF-8(BOM 포함)** 으로 변환되어 있습니다.
 
