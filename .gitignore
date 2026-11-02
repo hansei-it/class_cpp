@@ -22,3 +22,6 @@ Release/
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
+
+# 임시 파일
+temp/
